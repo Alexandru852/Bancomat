@@ -1,0 +1,4 @@
+This project aims to simulate an ATM. Given that it is not possible to simulate the insertion of cards, this is a virtual ATM where to access the account and possibly make changes, it is sufficient to insert the pin.
+With the push of a button, the connection to the account is made, where there are 4 functions specific to any ATM in daily life, namely: "Query Balance" which displays the amount of money available to the account, "Change pin" which allows change the pin, "Cash withdrawal" which helps to withdraw a certain amount of money, and "Cash deposit" which allows the addition of a certain amount of money in the account.
+An account vector (name, surname, pin, current balance) was created, which simulates a database, and a banknote vector (banknote value, number of banknotes), which simulates the ATM warehouse.
+The project was developed in the C # programming language (.NET Framework 4.7.2) using the Visual Studio IDE using the Windows Froms Apps framework.
