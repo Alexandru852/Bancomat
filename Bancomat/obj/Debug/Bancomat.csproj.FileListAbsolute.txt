@@ -1,0 +1,16 @@
+D:\Programare_IT\C#\Bancomat\Bancomat\bin\Debug\Bancomat.exe.config
+D:\Programare_IT\C#\Bancomat\Bancomat\bin\Debug\Bancomat.exe
+D:\Programare_IT\C#\Bancomat\Bancomat\bin\Debug\Bancomat.pdb
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.csproj.AssemblyReference.cache
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.csproj.SuggestedBindingRedirects.cache
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.EcranPrincipal.resources
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.Properties.Resources.resources
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.csproj.GenerateResource.cache
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.csproj.CoreCompileInputs.cache
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.exe
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.pdb
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.Meniu.resources
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.Interogare_Sold_Form.resources
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.Schimbare_Pin_Form.resources
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.Retragere_numerar_Form.resources
+D:\Programare_IT\C#\Bancomat\Bancomat\obj\Debug\Bancomat.Depunere_Numerar_Form.resources
