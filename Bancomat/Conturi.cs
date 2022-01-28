@@ -11,12 +11,13 @@ namespace Bancomat
         /// <summary>
         /// Acest vector simuleaza o baza de date pentru conturile oamenilor.
         /// </summary>
-        public static  Login[] conturi = new Login[]
+        public static Login[] conturi = new Login[]
         {
             new Login("Prisacaru", "Alexandru", "1234", 1200),
             new Login("Barzu", "Cosmin", "2215", 500),
             new Login("Axinia","Razvan","4422",700),
-            new Login("Ionescu","Ion","1221",400)
+            new Login("Ionescu","Ion","1221",400),
+            new Login("Deac","Amalia","2878",1000)
         };
         /// <summary>
         /// Acest vector simuleaza magazia de bancnote a bancomatului.
@@ -40,7 +41,7 @@ namespace Bancomat
         {
            for(int i = 0; i<conturi.Length;i++)
             {
-                if(conturi[i].pin == pin)
+                if (string.Compare(pin, conturi[i].pin) == 0)
                 {
                     return conturi[i];
                 }
@@ -52,7 +53,7 @@ namespace Bancomat
             
             for(int i = 0; i < conturi.Length; i++)
             {
-                if(pin == conturi[i].pin)
+                if(string.Compare(pin,conturi[i].pin)==0)
                 {
                     return i;
                 }
